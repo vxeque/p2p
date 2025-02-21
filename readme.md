@@ -1,5 +1,3 @@
-Workspace: Recopilando información del área de trabajo# Transferencia de Archivos P2P
-
 Este proyecto implementa un servidor web simple utilizando Flask para permitir la transferencia de archivos entre dispositivos conectados a la misma red local.
 
 ## Descripción
