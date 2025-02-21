@@ -1,10 +1,3 @@
-vxeque: crear un archivo readme.md para el proyecto con la descripción y los pasos para ejecutarlo en su pc 
-
-Workspace: Enable Claude 3.5 Sonnet (Preview) for all clients
-Enable access to the latest Claude 3.5 Sonnet model from Anthropic. [Learn more about how GitHub Copilot serves Claude 3.5 Sonnet](https://docs.github.com/copilot/using-github-copilot/using-claude-sonnet-in-github-copilot).
-
-vxeque: @workspace Enable: "Enable Claude 3.5 Sonnet (Preview) for all clients"
-
 Workspace: Recopilando información del área de trabajo# Transferencia de Archivos P2P
 
 Este proyecto implementa un servidor web simple utilizando Flask para permitir la transferencia de archivos entre dispositivos conectados a la misma red local.
